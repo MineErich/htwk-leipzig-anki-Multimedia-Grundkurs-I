@@ -1,0 +1,24 @@
+"Erläutern Sie die Rolle der Technologien HTML, CSS und JavaScript im WWW und den Zusammenhang zwischen den Technologien. ";"HTML stellt die Dokumentenstruktur und den Inhalt bereit, CSS kann das Layout und die Darstellung der HTML verändern und JS kann Funktionalität und Interaktion beeinflussen / hinzufügen"
+"Erläutern Sie den Grundaufbau von HTML vor dem Hintergrund einer Auszeichnungssprache. ";"Doctype – Version, html – Wurzelelement, head – Kopfzeile mit Metainformationen, body – Inhalt 
+Auszeichnungssprache: Regelsammlung zur Beschreibung von Dokumenten in textlicher Sprache, zB Gruppieren von Elementen, BeschreibungFunktion und Darstellung von Elementen."
+"Erläutern Sie die Elemente der dargestellten HTML-Struktur (siehe S.10 VL_5) ";"TODO"
+"Erläutern Sie den Grundaufbau von CSS mit Referenz auf HTML. Gehen Sie dabei auf Selektoren, grundsätzliche Formatbeschreibung und die CSS-Cascade ein. ";"Selektor { Eigenschaft: wert } zB p {} oder #ElementMitDerID {} oder .ElementeDieserClass {}
+Eigenschaften sind mit css definiert (Farbe, Abstand, …), können Werte annehmen (Farbe=blau)"
+"Skizzieren Sie die Grundelemente des CSS_Boxmodells und erläutern Sie die Begriffe ""Inline-Box"" und ""Block-Box"". ";"Im Boxmodell gibt es Boxelemente, diese Bestehen aus Content, inneren Abstand, äußeren Abstand und border.
+Inline-box: Boxelemente werden nebeneinander dargestellt,
+Block-box: B.elemente werden untereinander dargstellt"
+"Erläutern Sie den Zweck und Grundansatz der Flexbox-Methode. ";"Elemente die flexbox sind, können sich flexibel an freien / schrumpfenden Platz anpassen, gut für unterschiedliche Devices (Monitor, Tablet, Handy)"
+"Erläuten Sie den Zweck und Grundsatz der Grid-Methode im Vergleich zur Flexbox-Methode. ";"2D System in dem Elemente angeordnet werden, Grid ermöglicht Zeile&Spalte zu beschreiben, flexbox je nur eins. Layout gibt dem Inhalt Restriktionen vor, Flexbox eher gut, um Aussehen vom Inhalt abhängig zu machen."
+"Erläutern SIe den Zweck von relativen Längemmaßen in CSS vor dem Hintergrund von responsive Design. ";"Absolute Längenangaben sind problematisch, wenn zB Webseite auf 24“ Monitor ausgelegt ist, aber Tablet oder Handy genutzt werden, da Darstellung dann verzehrt werden kann. Daher rel. Maße besser (rem, em, vh), da das Darstellungsverhalten relativ zum Endgerät definiert wird"
+"Erläutern Sie den Zweck von JavaScript im WWW und im Zusammenspiel mit HTML und CSS. ";"JS kann Struktur von HTML umbauen (Elemente löschen / Einfügen, manipulieren), kann CSS manipulieren und Funktionalitäten ergänzen (zB abschicken von Formularen)"
+"Erläutern Sie das Konzept des DOM und CSSOM. ";"DOM = Document Object Model
+einzelne Elemente im HTML werden im DOM in Beziehung gesetzt (können Eigenschafte nteilen, erben, usw), ist Schnittstelle zw JS x HTML, Baumstruktur von root runter zu einzelnen Elementen
+CSSOM =  CSS Object Modell, Schnittstelle CSS x JS, erlaubt Manipulation"
+"Skizzieren Sie den DOM des folgenden Codebeispiels (bspw. VL_5 S.10). ";"Html	-head	-meta
+		-meta
+		-titel
+	-body	-p	-kbd"
+"Erläutern Sie an einem Beispiel die Manipulation des DOM mit JS. ";"Document.getElementByID(„beipiel“).innerHTML = „jetzt was anderes als vorher“"
+"Skizzieren Sie den Ablauf des Critical Rendering Path und erläutern Sie drei Maßnahmen zur Optimierung einer Webseite mit Bezug auf den Critical Rendering Path.";"Sequenz, welche vorgibt, wie HTML, CSS, JS in Pixel umgerechnet und dargstellt werden soll
+DOM generieren → CSSOM generieren → Rendering Tree (sichtbare Ele.) → Layout (strukt. Aufbau) → Paint (rendern, darstellen)
+Maßnahmen: Optimierung Ladereihenfolge, Asynchrones nachladen von Ressourcen, Reduktion aufs nötigste (Requests, Dateigröße)"

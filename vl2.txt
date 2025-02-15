@@ -1,0 +1,48 @@
+
+"Skizzieren Sie den Zusammenhang zwischen Bildern/Grafiken und Kommunikation. Gehen Sie dabei auf den Begriff ""Medium"" ein. ";"Bilder als Medium in Kommunikation: vermittelt Informationen, welche in Textform schwer zu vermitteln sind."
+"Erläutern Sie die Aussage: ""Visuelle Wahrnehmung ist ein Ordnungsprozess."" und nehmen Sie dabei Bezug auf das Konzept ""Gestalt"". ";"Ordnungsprozess: Erkennen von Formen, Gestalten und organisieren von Einheiten
+Gestalt: geschlossene Ganzheit, ergibt sich aus Ordnungsprozess, indem Objekt durch Form, Kontrast usw. zu Gestalt interpretiert wird.
+Bei visueller Wahrnehmung werden Gestalten durch Formen und Kontraste sowie Position und Priorität kategorisiert und in Verhältnis gesetzt, um dann im Gesamtbild interpretiert werden zu können."
+"Nennen Sie die Grundelemente visueller Wahrnehmung und stellen Sie für drei Elemente einen Bezug zu den Grundelementen Farbe und Helligkeit her. ";"- Farbe, Helligkeit, Position, Bewegung
+- Form, Textur, Größe, Ausrichtung
+- Räumlichkeit
+Bezug, Form wird durch Kontrast (= Helligkeit / Farbe) erkennbar, ebenso Größe und Räumlichkeit"
+"Skizzieren Sie die visuellen Grunderfahrungen von Menschen. Unterlegen Sie jede Grunderfahrung mit einem Beispiel. ";"Schwerkraft (liegende Objekte = ruhig), optische Mitte (!=geometr. Mitte), Achsen (Senk- / Waagerecht = Stabil), kulturelle Leserichtung (hier: links nach rechts wirkt ruhig), Symmetrie (=ruhig), Licht (Lichteinfall in Leserichtung = gut), Räumlichkeit (3D = gut), Ergänzung&Reduktion (Elefant(-enauge), Figur-Grund-Kontrast (Gesicht-Kelch-Bild), optische Täuschung (2 gleichgroße Kreise, 1 Kreis mit kleinen Kreisen drumherum, der andere mit großen, kleine Kreise-Kreis wirkt größer)"
+"Erläutern Sie das Konzept der visuellen Spannung und unterlegen Sie Ihre Darstellung mit einem Beispiel. ";"Spannung steigert Interesse, Bsp. unterschiedlich große Punkte werden in Beziehung gesetzt."
+"Erläutern Sie den typischen Verlauf der sakkadischen Augenbewegung (nach Wittling) und die Bedeutung dieser Augenbewegung für die visuelle Gestaltung. Unterlegen Sie Ihre Darstellung mit einem Beispiel. ";"Sehen ist Abtastvorgang, Start Bildmitte, Abtastung Konturen dominanten Objekts, dann zweites Objekt, dann Verhältnis herstellen zw. Objekten (Distanz) → = Verhältnis + Spannung
+Bsp. Großer Baum + kleiner Baum: gB (Mitte), gB (linker+rechter Rand), kleiner Baum, Distanz (hin, zurück)"
+"Beschreiben Sie die Begriffe ""Lichtfarbe"" und ""Körperfarbe"". ";"Körperfarbe: Farbe eines Objekts, das selbst nicht leuchtet
+Lichtfarbe: Farbe einer Lichtquelle"
+"Skizzieren Sie das Konzept der additiven Farbmischung und der subtraktiven Farbmischung. ";"Add. Farbmischung: relevant bei Licht, Ausgangspunkt: RGB, dann Mischung ergibt hellere Farbtöne. Beispiel: Monitor
+Sub. Farbmischung: relevant bei Farbsubstanzen, Beispiel Print, Ausgangspunkt CMY(K), Farbsubstanzen absorbieren Licht bestimmter Wellenlänge, reflektieren Rest → Reflexion. Mehr Farbe = dunkler"
+"Erläutern Sie, welche Farbe bei der Betrachtung einer Mischung aus den Farbsubstanzen Magenta und Gelb entsteht. Gehen Sie auf die Konzepte Absorption und Reflexion ein. ";"Rot. Cyan (add. Mischung aus Grün und Blau) wird absorbiert, M+Y reflektiert. Mischung M+Y ergibt dann rot"
+"Skizzieren Sie das RGB-(technische)-Farbmodell und leiten Sie aus den Eigenschaften ein Nutzungszenario ab, für das sich das Modell eignet. ";"RGB = Mischung aus den 3 Primärfarben, welche sich nicht auseinander mischen lassen
+Umwandlung des add Farbmischverfahrens in Zahlenmodell, Veranschaulichung 3D-Einheitswürfel mit Eckpunkten Rot,Grün,Blau, Koordinatenursprung in schwarz weiß = 1,1,1
+Farbtiefe limitiert durch Technik, zB 24 Bit pro Farbkanal (16mio Farben)
+Nutzungsszenario: Bildschirm"
+"Skizzieren Sie das CMYK-(technische)-Farbmodell und leiten Sie aus den Eigenschaften ein Nutzungszenario ab, für das sich das Modell eignet. ";"= sub Farbmischung, siehe Einheitswürfel aber Subtraktion zu Koordinatenursprung (=weiß) ergibt CMY. K = Key = Schwarz wird für Farbtiefe hinzugegeben
+Beispiel: Druck"
+"Nennen Sie vier Farbkontraste und skizzieren Sie je ein Beispiel. ";"Warm-Kalt-Kontrast, 		Wald im Herbst (orange=warm) an Fluss (blau=kalt)
+Hell-Dunkel-Kontrast, = Schwarz-Weiß Bild Schnee (weiß=hell) und Baum (dunkel=kalt)
+Quantitäts-K., = Farbintensität eines Objekts in Abh. Zu allen anderen Obj.
+Qualitäts-K. = Sättigungskontrast: SW-Bild mit Apfel, der rot gefärbt ist"
+"Erläutern Sie das Konzept der Gestalt und skizzieren Sie drei Gestaltgesetze. ";"Gestalt: Wahrnehmung von Obj. als Gestalt durch Interpretation von Einheit und Mustern
+Gesetze: Gesetz der Nähe (Gruppierung), Gesetz der Geschlossenheit (Figurenerkennung), Gesetz der Gleichartigkeit (Gruppierung von Gleichartigen)"
+"Nennen Sie drei Beispiele für Farbassoziationen und Faktoren, die Farbassoziationen beeinflussen.";"Konnotation: Schwarz-Negativ, Weiß-Reinlichkeit, Grün-Hoffnung
+Faktoren: Kulturelle Prägung (Beispiel nur im westlich/europäischen Raum), gelernte Farbkonnotationen (zB in Videospielen)"
+"Skizzieren Sie Elemente der Nutzung von Farben in Computerspielen als Beispiel der Nutzung von Farben in einem multimedialen System. ";"Spiele: Hell: keine Gefahr, dunkel: Gefahr
+MM-System: Werbung: Wiedererkennung schaffen durch prägnante Merkmale"
+"Skizzieren Sie die Grundprinzipien von Vektor- & Rastergrafiken und erläutern Sie die technischen Parameter ""Farbtiefe"", ""Größe"" und ""Auflösung"".";"Bitmap Auflösungabhängige Speicherung einer Bitmap (Raster), bestehend aus Pixeln
+Farbtiefe: Anzahl Bits die pro Pixel für Beschreibung des Farbwerts verwendet werden 
+Größe: 2D Ausdehnung des Bildes
+Auflösung: Anzahl Pixel pro Längeneinheit"
+"Skizzieren Sie die Grundeigenschaften des Dateiformats GIF und gehen Sie dabei auf den ""color lookup table"" sowie das Konzept des Interlacing ein. Welche Motivation steht hinter der Farbtabelle und Interlacing? ";"(Graphics Interchange Format) Verlustfreie Komprimierung, max 256 Farben (8Bit Farbtiefe), Transparenz mgl., Interlace: schichtweiser Bildaufbau, mehrere GIFs = animated GIF
+Color lookup table dient der Speicherung der Farbinformationen (Pixel verweisen auf Position in table, anstelle selbst Farbinformation zu enthalten)"
+"Skizzieren Sie die Grundeigenschaften des Dateiformats JPEG und gehen Sie dabei auf die Motivation von der Komprimierung von Bilddaten am Beispiel dieses Formats ein. ";"JPEG (Joint Photographic Experts Group): verlustbehaftete Komprimierung, Grad der Kompression ist wählbar, max 16.7mio Fabren (24Bit), keine Transparenz, Progressiv JPEG erlaubt Interlacing
+Kompression wichtig, um schnell Daten übertragen und darstellen zu können, qualität steht im Hintergrund, aber Kompression nicht immer sichtbar"
+"Skizzieren Sie die Grundeigenschaften des Dateiformats PNG und gehen Sie dabei auf die Funktion und den Nutzen des ""Alpha-Kanal"" sein. ";"(Portable Network Graphic): speziell für WWW, verlustFREI, 24-Bit, Beschreibung Bildpunkt durch Farbwert+Alpha-Kanal, ermöglicht Gammakorrekut, schnelleres Interlacing als bei GIF
+Alpha-Kanal: Information über Transparenz, 8Bit (siehe rgba)"
+"Skizzieren Sie in kurzen Worten die Grundeigenschaften des Dateiformats SVG. ";"(Scalable Vector Graphics): freies, standartisiertes Dateiformat für Vectorgrafiken, XCL-basiert, HTML-Einbettung möglich"
+"Erläutern Sie je einen geeigneten Anwendungsfall für die Dateiformate PNG, SVG und JPEG basierend auf deren technischen Eigenschaften. ";"PNG: Bilder mit Text (Grafiken, Diagramme) im WWW
+SVG: Logos, Icons (Webseiten)
+JPEG: Bilder ohne Text im WWW"

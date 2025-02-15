@@ -1,0 +1,35 @@
+"Erläutern Sie den Begriff ""Zeichen"" im Kontext der Zeichentheorie und gehen Sie dabei auf die Begriffe ""Semantik"", ""Syntaktik"" und ""Pragmatik"" ein. ";"Zeichen besteht aus Syntaktik (Gestaltung), Semantik (Bedeutung) und Pragmatik (Zweck und Kontext)"
+"Erläutern Sie die Zusammenhänge zwischen dem Konzept ""Zeichen"" und Kommunikation sowie dem Konzept ""Gestaltung"". ";"TODO"
+"Skizzieren Sie die Aufgaben von Typographie vor dem Hintergrund von Zeichen als Mittel zur Kommunikation.";"Typographie = Kombination von Schriftzeichen und deren Gestaltung und technisch. Umsetzung
+praktisches Ziel: Verständnis des Textes erleichtern, Aufmerksamkeit schaffen, Emotionen, Ästhetik
+Gestaltung kann unterschiedliche Interpretationen des Zeichens ermöglichen"
+"Skizzieren Sie grundlegende Theorien zum Lesevorgang und gehen Sie dabei auf den Begriff ""Sakkade"" ein.";"Lesevorgang soll schnell, ohne Anstrenung & Ablenkung und eindeutig sein, Aufmerksamkeit schaffen.
+Erfassen von Wörtern, Wortbestandteilen, Wortgruppen → Erkennen von Sinneinheiten, welche einen Fixationspunkt (=Sakkade) haben, An Fixationspunkt wird Info aufgenommen und verarbeitet
+Fixationspunkte erhalten Lesefluss"
+"Beschreiben Sie Änderungen an einem Text, um diesen für eine Darstellung auf einer Webseite anzupassen. Hierbei dürfen Sie Inhalt und äußere Form abändern.";"Überschriften Kurz und groß = schnelles Erfassen
+Abstände und Proportionen um Fixatinspunkte schneller erkennbar zu machen"
+"Skizzieren Sie die Grundelemente einer Glyphe (ohne sowie mit Kegel etc.) ";"Kegel: Bleiletter
+Kegelhöhe
+Nachbreite: Abstand nach Buchstabe
+Vorbreite: Abstand v.B.
+Fleisch: Abstand oben/unten
+Punzen: Innenraum Schriftzeichen
+Zeichenbreite	
+Dickte: Zeichen + Vor- + Nachbreite"
+"Skizzieren Sie das Konzept des ""Geviert"" an einem Beispiel und Elemente der Typographie, für die dieses Konzept nützlich ist. ";"Ist relative Maßeinheit, zB Schrifthöhe = Kantenlänge des Gevierts, Leerzeichen zB ¼ Gevierts"
+"Skizzieren Sie den Zweck von Serifen an zwei Beispielen. Gehen Sie auf geeignete und ungeeignete Anwendungszenarien für Serifenschriften ein. ";"Serifen stärken Augenführung → zB Zeitung
+am Monitor besser ohne Serifen, da geringe Auflösung problematisch ist"
+"Skizzieren Sie an Beispielen die Parameter ""Duktus"", ""Schriftbreite"" und ""Schriftlage"" des Schriftschnitts sowie die Laufweite von Schrift. ";"Schriftschnitt = Duktus (Linienstärke Bsp FETT), Schriftbreite (Bsp BREIT) und Schriftlage (Bsp Kursiv) beschrieben, Laufweite (eng, normal, gesperrt) wird beschrieben durch Dickte"
+"Skizzieren Sie die technische Beschreibung des Konzepts ""Schriftgröße"".";"Didot-System (alt) vs. Pica-System, Schriftgröße = Abstand Oberkante+Oberlänge bis Unterkante+Unterlänge"
+"Skizzieren Sie die Rolle des Seitenformats bei der Typographie und stellen Sie einen Bezug zum Konzept ""Raum"" in der visuellen Gestaltung her. ";"Harmonische Seitenverhältnisse sind schöner (Goldener Schnitt), unbedruckter Raum steht in Wechselwirkung mit bedrucktem Raum (Schrift, Bild, farbige Fläche), erzeugt somit Spannung"
+"Skizzieren Sie an einem Beispiel die Rolle des Konzepts ""Satzspiegel"" in der Typographie und gehen Sie dabei auf das Konzept ""Stege"" ein. ";"Beispiel Buch: Satzspiegel = Nutzfläche, Stege sind Abstand zu Seitenende (oben, unten, links, rechts). 2 Buchseiten aufgeklappt: Steg oben, außen und unten bei beiden sichtbaren Seiten gleich, Innenstege meist symmetrisch (ganzes Layout symmetrisch)"
+"Skizzieren Sie an zwei Beispielen die Rolle des Konzepts ""Gestaltungsraster"" in der Typographie. ";"Gestaltungsraster = schematische Strukturierung des Satzspiegels. Zeitung: meist mehrere Spalten pro Seite, da Satzspiegel der gesamten Seite sehr groß. Handy: sehr schmal, d.h. im Web möglichst simples Raster (möglich: Zeilen satt Spalten)"
+"Skizzieren Sie an je einem Beispiel die verschiedenen Satzausrichtungen. Stellen Sie zwei Beispiele für Flattersatz dar. ";"Linksbündig: cool, weil wir Europäer*innen sind (das hier ist Flattersatz)
+ (das hier ist Flattersatz) Rechtsbündig: sus, aber erregt Aufmerksamkeit
+mittig: sieht aus wie Webseite aus den 2000ern
+Blocksatz geht auf komplette Spaltenbreite und sieht seriös aus."
+"Skizzieren Sie drei selbst gewählte Möglichkeiten zur Gestaltung des Satzes an einem selbst gewählten Textbeispiel. ";"Anordnung, Ausrichtung Schrift, Gliederung in Umbrüche und Absätze, Schriftart, Farbe, Überschriften"
+"Skizzieren Sie zwei Maßnahmen bei der Gestaltung von Texten mit dem Ziel die Lesbarkeit eines Textes zu unterstützen. Stellen Sie zwischen diesen Maßnahmen und dem Lesevorgang einen Bezug her. ";"Gleichwertiges sollte Typographisch gleich sein, also 2 Absätze sind nicht in unterschiedlicher Schriftgröße / Gliederung mittels Absätzen und Zwischenüberschriften"
+"Skizzieren Sie an einem selbstgewählten Beispiel Maßnahmen zur Gestaltung von Schriftzeichen als Unterstützung von Kommunikation. ";"Auf Webseite ist Code: Font sollte zB Courier New sein, da diese mit Programmieren assoziiert wird. Diese Schrift weißt hohe Leserlichkeit auf (große Buchstaben und immer selbe Breite)"
+"Erläutern Sie die Konzepte ""Bitmap Fonts"" und ""Outline Fonts"" und stellen Sie Vor- und Nachteile der beiden Technologien dar. ";"Bitmap: jede Glyphe als Raster dargstellt, skaliert nur bedingt in Auflösung (bei Vergrößerung)
+Outline: Darstellung durch Koordinaten von Eckpunkte, vektorisierte Darstellung (Berechnung)"

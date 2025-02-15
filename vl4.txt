@@ -1,0 +1,25 @@
+"Erläutern Sie die Motivation hinter der Verwendung standardisierter Kommunikationsprotokolle im Internet mit Referenz auf die Struktur des Netzwerks.";"Heterogene Struktur von Servern, Rechnern etc. kann mittels standardisierter Protokolle immer gleich kommunizieren, verschiedene Protokolle für verschiedene Anwendungen und Schichten (siehe OSI)."
+"Skizzieren Sie die Motivation hinter der Organisation von Protokollen nach dem OSI-Referenzmodell und erläutern Sie die Begriffe ""Datenpaket"" und ""Header"" in diesem Kontext sowie die Beziehung der verschiedenen Schichten zueinander im Modell. ";"Physical, Data, Network, Transportation, Session, Presentation, Application -Layer
+Idee: Anwender hat App auf Appl.L., klickt was → PC arbeitet sich runter im Modell, kann somit über physical mit anderem Computer interagieren, dieser arbeitet sich hoch, bis deren App die angefragte Aufgabe erfüllt.
+Datenpaket: eigentliche Daten, welche verarbeitet werden sollen
+Header: Steuerelemente, um Kommunikation zu klären (an wen geht Paket (IP, Port, Anwendung))
+Schichten können auf input hin unabhängig abreiten und geben output an nächste Schicht weiter = Zerlegung komplexes Problem in lösbare kleine Teilprobleme"
+"Erläutern Sie den Begriff ""Dokument"" im Kontext des World Wide Web und erläutern Sie in diesem Rahmen die Begriffe ""Hyperlink, ""Hypertext"" und ""Hypermedia"" in diesem Kontext. ";"Sammlung von Medienobjekten, zB Text oder Bild, 
+Hyperlink: zeigt auf ein Dokument 
+Hypertext: ist das Dokument
+Hypermedia: Dokument mit mehrere Medien (Text, Bild, Video, …) 
+Ergebnis: navigierbare Netzstruktur zwischen Dokumenten mittels Hlinks"
+"Skizzieren Sie die Motivation und Grundstruktur des Client-Server-Prinzips und gehen Sie dabei auf die Konzepte ""Request"", ""Response"" ein. ";"Client wird von User bedient, Client fragt benötigte Ressourcen beim Server, welcher Daten hat, an (aka Request), Server gibt Ressourcen zurück oder Fehler (response)
+1 User = 1 Client, 1 Server = für viele Clients"
+"Erläutern Sie die Bedeutung des Konzepts ""Port"" im Kontext des Client-Server-Prinzips. ";"Port ist im Netzwerk erreichbare Schnittstelle , welche vom Server einem Prozess zugeordnet ist.
+HTTP-Server zB Port 80, Anfrage an Server über 80 wird dann an HTTP-Server weitergeleitet"
+"Erläutern Sie die Bedeutung der Dokumentlokalisierung im World Wide Web und gehen Sie dabei auf die Konzepte ""URL"" und ""URI"" ein. ";"URL = Uniform Ressource Locator	Lokalisierung von Dokument auf Server
+http://htwk-leipzig.de:80/imn/index.html Protokoll://Hostname:Port/Pfad/Dateiname
+URI = Uniform Ressource Identifier = URL + Query und Parameter"
+"Erläutern Sie die Bedeutung des Internet Protokolls im World Wide Web und stellen Sie den Bezug zum Konzept Dokumentlokalisierung her. ";"Bietet Möglichkeit dezentrale Ressourcen wie Dokumente mittels Dok.lok. Für andere Clients erreichbar zu machen"
+"Skizzieren Sie die Grundstruktur des Domain Name Systems und skizzieren Sie den Ablauf einer DNS-Anfrage, wenn der Browser keine Daten im Cache hinterlegt hat. Gehen Sie auf die Begriffe ""Toplevel-Domain"", ""Subdomain"" und ""Hostname"" ein. ";"Hierarchisch: Root, TLD, 2LD, (SLD)*x, 
+Alles iterativ: Client fragt Root-Server nach www.sub.domain.org
+Root verweißt an TLD „org“, TLD an Server „domain“, Server an Sub „sub“, dieser gibt dann IP des Severs zurück"
+"Erläutern Sie die Bedeutung des Hypertext Transfer Protokolls im World Wide Web und skizzieren Sie einen grundlegenden Kommunikationsablauf. ";"Ablauf Browser=B, Server=S
+B→S (Verbindung initiieren) S→B (ok), [B→S (Anfrage Ressource) S→B (Rückgabe Ressource)]*x B→S (ok, bye), S→B (ok, bye)
+HTTP: Protokoll für beschrieben Ablauf, an den sich alle halten (können). Elementar für Kommunikation Browser (User) mit Server(und Ressourcen)"

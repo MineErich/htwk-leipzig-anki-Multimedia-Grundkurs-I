@@ -1,0 +1,46 @@
+"Nennen Sie die Bedeutung der Begriffe: ""Information"", ""Signal"", ""Daten"". Beschreiben Sie den Zusammenhang zwischen diesen Begriffen. ";"Information
+- Trägermedium und Inhalt (Bedeutung)
+- Bedeutung der Sprache in Text in Information
+- Beispiel: Zeichenkombination, Datei auf materiellem Träger wie USB, Folge von physikalischen Signalen ist Information
+Signale
+- Veränderung einer physikalischen Größe
+- Beispiel: Sprechen, Spannung im Schaltgreis
+	- Audiosignal: Schwingung in der Luft mit Frequenz, Amplitude etc
+	- **vorhersagbare Änderung** (Änderung Frequenz = anderer Ton)	
+Daten
+- codierte in Computer gespeicherte Informationen
+Signal -> Folge von Signalen ist Information -> digital-codierte Informationen sind Daten"
+"Erläutern Sie die Begriffe ""Informationsverarbeitendes System"" und ""Medium"" und stellen Sie Zusammenhänge dar. ";"IVS: 	Computer: EVA, 
+	Menschen interpretieren Informationen auf Basis ihres Wissens
+Medium: Mittel zur Weitergabe von Informationen, Unterscheidung von Typen wie Speicherm (CD)., Präsentationsm (Bildschirm). Übertragungsm. (Kabel)
+
+Computer→ (Präsentations-)Medium → Mensch"
+"Erläutern Sie die Begriffe ""diskrete Medien"" und ""kontinuierliche Medien"". Nennen Sie jeweils ein Beispiel. ";"Diskrete Medien: zeitunabhängig, Information kann unabhängig von Zeitregime präsentiert werden
+	Beispiel: Text
+kontinuierliche Medien: ändern sich über Zeit, Zeit bedingt Verarbeitungsprozess (Beispiel Video)"
+"Erläutern Sie die Begriffe ""Multimedia"" und stellen Sie einen Bezug zum informationsverarbeitenden System Mensch her. ";"Technologie zur Vermittlung von Information mittels verschiedener Medien und Wege. Wichtig: Einsatz mehrerer Medien gleichzeitig, z.T. auch ansprechen mehrerer Sinne des Menschen.
+Mensch nimmt über Sinne Informationen auf und interpretiert. MM nutzt zB Ton, Bild, usw"
+"Nennen Sie Einsatzziele von Multimedia. ";"Informationsvermittlung Computer→Mensch, zB Nutzeroberflächen von Software oder SoMe, Werbung, Aufmerksamkeit lenken"
+"Erläutern Sie die Begriffe ""dynamische Medien"" und ""statische Medien"". ";"Dynamische Medien: Darstellung ändert sich mit der Zeit
+Statische Medien: Darstellung unverändert"
+"Erläutern Sie die Bedeutung des Computers als Medium für die Entwicklung von Multimedia und digitalen Medien. ";"- Unterstützen MM durch berechnen und realisieren von Informationsprozessen
+- ermöglichen Nutzung, Vernetzung neuer Medien
+- Interfaces zur Kommunikation mit Mensch"
+"Skizzieren Sie die Grundelemente des Shannon-Weaver Kommunikationsmodell. ";"BILD EINFÜGEN"
+"Erläutern Sie den Begriff ""Medium"" mit Bezug auf das Shannon-Weaver Kommunikationsmodell und stellen Sie einen Bezug zu den Begriffen ""Information"" und ""Kommunikation"" sowie zwischen diesen Begriffen her. ";"Medium=Kanal, Informationsaustausch über Medium, Kommunikation ist Informationsaustausch"
+"Erläutern Sie Herausforderungen bei der Betrachtung menschlicher Kommunikation auf Basis des Shannon-Weaver Kommunikationsmodells. ";"Fokus auf menschliche Interaktion / Nachrichtentechnik, nicht auf Botschaft"
+"Nennen Sie Elemente, die Einfluss auf menschliche Kommunikation haben und beschreiben Sie diesen Einfluss. ";"Emotionen (Interpretation), audiovisuelle Störquellen (akustisches Verständnis eingeschränkt)"
+"Erläutern Sie die Aussagen ""Kommunikation ist ein Zeichenprozess"" und ""Kommunikation ist ein Übersetzungsprozess"". Nehmen Sie Bezug auf den Begriff ""Zeichen"". ";"Zeichenprozess: Bedeutung in (symb.) Zeichen kodiert, dann Dekodierung = Information 
+Übersetzungsprozess: (de-)kodieren mittels Zeichenvorrat. → Interpretation der Bedeutung der Zeichen (gemeinsamer Zeichenvorrat durch Kultur und Lernen)"
+"Erläutern Sie das Kommunikationsmodell nach Aufermann, gehen Sie dabei besonders auf den Begriff ""Zeichenvorrat"" ein. Nennen Sie drei Elemente, die diesen Zeichenvorrat beeinflussen. 
+Nennen Sie die Elemente der Lasswell-Formel und beschreiben Sie in kurzen Worten die Bedeutung jedes Elements.";"Zeichenvorrat wichtig zur Kommunikation bei (De-)Kodierung. Erfolgreiche Kommunikation durch hohe Schnittmenge an Zeichenvorrat. Beinflussung durch Tradition, Sozialisation und (Medien-)Kultur .
+
+Lasswell: 
+*wer sagt was* *zu wem*, *womit*, *durch welches Medium*, *mit welcher Absicht* und *mit welchem Effekt* (Sender, Nachricht, Empfänger, Signal, Medium, Ziel, Outcome)
+TODO BILD EINFÜGEN"
+"Erläutern Sie die folgenden Elemente der strategischen Kommunikationsplanung (Hinweis: Teil einer Erläuterung ist die Elemente in Beziehung zu setzen):";"    • Situationsanalyse = Ist-Zustand
+    • Festlegung der Kommunikationsziele = ökonom. Ziele
+    • Zielgruppenplanung = Zg. Identifizieren, beschreiben→Erreichbar?
+    • Festlegung der Kommunikationsstrategie = siehe Lasswell-Formel
+    • Integration in den Marketingmix = Vernetzen, Bezug herstellen zwischen Maßn.
+Unten im Diagramm sind noch Umsetzung und Erfolgskontrolle. Alles spielt zusammen und fließt in Integration i.d. M.mix ein."
